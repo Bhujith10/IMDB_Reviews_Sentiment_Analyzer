@@ -1,0 +1,14 @@
+click==8.0.1
+Flask==2.0.1
+Jinja2==3.0.1
+Keras==2.4.3
+matplotlib==3.5.2
+nltk==3.3
+numpy==1.22.3
+pandas==1.4.2
+plotly==4.14.3
+scikit_learn==1.1.1
+seaborn==0.9.0
+tensorflow==2.0.0b1
+gunicorn==20.1.0
+Werkzeug==2.0.1
